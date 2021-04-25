@@ -55,5 +55,10 @@ If you found this code useful, please cite the following paper:
 ## Acknowledgements
 This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant ERC CoG 725974).
 
+The code is based on the following github repositories:
+1. CycleGAN (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+2. DiscoGAN (https://github.com/SKTBrain/DiscoGAN)
+3. DistanceGAN (https://github.com/sagiebenaim/DistanceGAN)
+4. Hyperband (https://github.com/zygmuntz/hyperband).
 
 
