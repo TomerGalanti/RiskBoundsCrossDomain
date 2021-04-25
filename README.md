@@ -1,7 +1,6 @@
-# Estimating the Success of Unsupervised Image to Image Translation
+# Risk Bounds for Cross-Domain Mapping with IPMs
 
-Pytorch implementation of "Estimating the Success of Unsupervised Image to Image Translation" ([arxiv](https://arxiv.org/abs/1712.07886)).
-
+Pytorch implementation of "Risk Bounds for Cross-Domain Mapping with IPMs" 
 Prerequisites
 --------------
 - Python 2.7
